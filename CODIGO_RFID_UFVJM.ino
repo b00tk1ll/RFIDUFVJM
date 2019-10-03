@@ -10,8 +10,8 @@
 // Definindo pinos do rfid e configurações do firebase
 #define SS_PIN 4  // D2
 #define RST_PIN 5 // D1
-#define FIREBASE_HOST "rfidufvjm.firebaseio.com"
-#define FIREBASE_AUTH "0GFGoA9Kn51ii2LtOa6MDBU9tVt2gBWS5X4cGQBZ"
+#define FIREBASE_HOST ".firebaseio.com"
+#define FIREBASE_AUTH ""
 
 // Declarando as variaveis
 String content= "";
